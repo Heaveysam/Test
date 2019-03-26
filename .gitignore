@@ -1,0 +1,10 @@
+lib
+pyvenv.cfg
+include
+lib64
+pip_selfcheck.json
+share
+bin
+pip-selfcheck.json
+static/Thor.mp4
+static/movie.mp4
